@@ -1,1 +1,6 @@
-This file contains your course Title, Subtitle, Language, Category and Subcategory.
+Title: Inspiration for Success
+Subtitle: Acquire the mindset and skills that enable you to achieve success in your life
+Language: English
+Category: Personal Development
+Subcategory: Personal Transformation
+Instructional Level: All
