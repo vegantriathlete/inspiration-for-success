@@ -1,0 +1,5 @@
+It is a good idea to record audio and video separately.
+
+This directory contains the video files for the lecture.
+
+[Udemy's guide to creating a perfect promo](https://info.udemy.com/perfect-promo)
