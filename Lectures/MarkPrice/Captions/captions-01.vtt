@@ -1,0 +1,547 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:08.269
+will folks this is going to be lively
+crazy today we got 58 people sixty
+
+00:00:08.269 --> 00:00:11.519
+people watching live already a rolling
+in
+
+00:00:11.519 --> 00:00:17.560
+there's a lot of excitement for this one
+will get to the questions at the end
+
+00:00:17.560 --> 00:00:21.130
+feel free to post your questions in the
+chat window there you use a forward
+
+00:00:21.130 --> 00:00:24.070
+slash you and then put your question
+
+00:00:24.070 --> 00:00:30.609
+it'll get tagged as a question and like
+I say we will get to them and so we
+
+00:00:30.609 --> 00:00:36.120
+don't interrupt the flow of things so
+getting ourselves started here welcome
+
+00:00:36.120 --> 00:00:44.760
+welcome everybody my name's mark Isaacs
+in an instructor and you just published
+
+00:00:44.760 --> 00:00:50.000
+my fifth course recently it is one that
+I think actually people will be
+
+00:00:50.000 --> 00:00:56.600
+interested in here you can find the
+replay of this is gonna be put up on my
+
+00:00:56.600 --> 00:01:01.260
+website later on I just posted the link
+in there it's a little bit to show up in
+
+00:01:01.260 --> 00:01:05.729
+the chat window but you'll be able to
+find the replay there there you go you
+
+00:01:05.729 --> 00:01:11.600
+got the link and you find my courses are
+available there I put a special discount
+
+00:01:11.600 --> 00:01:18.310
+on the latest course that I released its
+build your personal brand by becoming
+
+00:01:18.310 --> 00:01:22.909
+great interviewer and that's what I'm
+doing with these lab tests here that's
+
+00:01:22.909 --> 00:01:26.400
+part of what I got going on with these
+things so you can check out my website
+
+00:01:26.400 --> 00:01:30.659
+for my courses in once the replay is
+ready
+
+00:01:30.659 --> 00:01:36.470
+posted up on my site along with links
+that Mark has put in here and overtime
+
+00:01:36.470 --> 00:01:39.950
+I'll have transcripts in session notes
+and all that good kindest
+
+00:01:39.950 --> 00:01:48.680
+there so enough about me let me tell you
+a bit about mark mark is veteran iOS and
+
+00:01:48.680 --> 00:01:55.509
+Android developer having published over
+mobile apps today he is also a longtime
+
+00:01:55.509 --> 00:02:00.350
+game developer and he worked on Call of
+Duty ghosts in addition to many other
+
+00:02:00.350 --> 00:02:01.460
+mobile games
+
+00:02:01.460 --> 00:02:05.369
+in addition to professional programming
+mark is an accomplished teacher
+
+00:02:05.369 --> 00:02:10.080
+technology having taught at a coating
+boot camp and is now teaching full time
+
+00:02:10.080 --> 00:02:16.370
+is an online instructor with multiple
+successful development courses when Mark
+
+00:02:16.370 --> 00:02:23.130
+isn't coding or teaching he is spending
+time with his wife and four children so
+
+00:02:23.130 --> 00:02:29.319
+welcome to the show mark want to go
+ahead in dealing with any other readings
+
+00:02:29.319 --> 00:02:31.790
+in self introduction to do
+
+00:02:31.790 --> 00:02:35.739
+sure well for the for the record in the
+future listen to this later I'll be
+
+00:02:35.739 --> 00:02:43.720
+having a kid on Saturday so that number
+will go up regulations good stuff
+
+00:02:43.720 --> 00:02:50.769
+working full time you to me now and life
+is good very good very good I know
+
+00:02:50.769 --> 00:02:56.980
+there's a lot of excitement having you
+here and the show and people want to get
+
+00:02:56.980 --> 00:03:01.340
+right to the good stuff I'm sure but I
+always like to make sure that people get
+
+00:03:01.340 --> 00:03:04.819
+a chance to get a little bit of the
+backstory on people before we live since
+
+00:03:04.819 --> 00:03:12.450
+that so what you said you did some stuff
+experience with teaching at a coating
+
+00:03:12.450 --> 00:03:16.070
+tell us about some of the stuff that you
+done with your program your prior
+
+00:03:16.070 --> 00:03:21.720
+teaching experience yeah I did it was
+called coating campus fantastic people
+
+00:03:21.720 --> 00:03:28.030
+really great experience and I was I was
+there and I was developing curriculum
+
+00:03:28.030 --> 00:03:33.220
+for iOS four angular teaching
+development iOS development and I
+
+00:03:33.220 --> 00:03:39.400
+realize that I had the ability to help
+people change their lives through on
+
+00:03:39.400 --> 00:03:43.850
+through education and we started to
+promote education online many people
+
+00:03:43.850 --> 00:03:48.690
+from all over the world and I realize I
+was good at it but I also realized I
+
+00:03:48.690 --> 00:03:54.840
+wanted to I wanted to money doing it
+just realized I forgot to turn on my
+
+00:03:54.840 --> 00:04:02.739
+stop talking so anyway I talked for a
+while and then I heard you know me from
+
+00:04:02.739 --> 00:04:09.769
+another successful instructor who lives
+here in Utah as well and I saw him on
+
+00:04:09.769 --> 00:04:13.740
+his story on the news and I was like
+what is you to me and so I looked it up
+
+00:04:13.740 --> 00:04:17.870
+and I was like this is what I gotta do
+and so I just went to the ground and
+
+00:04:17.870 --> 00:04:26.930
+released thirty five hour course and it
+took us back story nice people off a
+
+00:04:26.930 --> 00:04:35.740
+little bit I know you're just dying to
+hear some tell us so successful in my
+
+00:04:35.740 --> 00:04:48.710
+promise we'll get to it so you mentioned
+that you had done some applications of
+
+00:04:48.710 --> 00:04:52.890
+us a little bit about some of the types
+of applications you develop in
+
+00:04:52.890 --> 00:05:00.570
+sure well back in 2007 I was a manager
+business manager drug testing company
+
+00:05:00.570 --> 00:05:06.390
+and basically people would go to prison
+and then they'd get out these are
+
+00:05:06.390 --> 00:05:10.720
+harmless criminals and they had to drug
+test in order to stay out of prison and
+
+00:05:10.720 --> 00:05:14.380
+so we take like three thousand dollars
+in a day we're all riding this by hand
+
+00:05:14.380 --> 00:05:18.470
+and I was like this is madness and I
+don't know anything about anything
+
+00:05:18.470 --> 00:05:23.850
+related to software and so I was like
+I'm gonna fix these problems I went down
+
+00:05:23.850 --> 00:05:28.650
+to the call Microsoft Access database we
+got signature pads in mentally
+
+00:05:28.650 --> 00:05:34.440
+biometrics and people can digitally sign
+and print labels and automated the
+
+00:05:34.440 --> 00:05:39.310
+process and then one day songs like I
+wanna pay you to do this I was like ok
+
+00:05:39.310 --> 00:05:47.120
+and I did when I was a program at the
+time and then the App Store came out
+
+00:05:47.120 --> 00:05:51.630
+with with Apple iOS and I saw people
+making million dollars left and right
+
+00:05:51.630 --> 00:05:57.090
+here and there's the App Store gold rush
+and this is really cool and so I kind of
+
+00:05:57.090 --> 00:06:02.440
+a four-year plan development of myself
+sort of releasing apps one after the
+
+00:06:02.440 --> 00:06:03.250
+other
+
+00:06:03.250 --> 00:06:08.170
+ordered really trashy apps better and
+better and then plots people start to
+
+00:06:08.170 --> 00:06:12.580
+want to pay me to do that as well I
+started my own consulting company where
+
+00:06:12.580 --> 00:06:19.620
+we would build mobile apps for clients
+and they pay a lot of money and I am on
+
+00:06:19.620 --> 00:06:23.580
+the App Store helping out and did that
+for a few years before I realized
+
+00:06:23.580 --> 00:06:25.750
+Consulting is incredibly stressful
+
+00:06:25.750 --> 00:06:29.820
+more more money to deal with the more
+stress liability you have and it just
+
+00:06:29.820 --> 00:06:34.620
+wasn't for me so I took a break I was
+like I just want to focus on me and my
+
+00:06:34.620 --> 00:06:39.450
+business but I need some reputation so I
+decided to go work get a big title under
+
+00:06:39.450 --> 00:06:42.120
+my belt and so I was choosing between
+call of duty
+
+00:06:42.120 --> 00:06:46.050
+Nickelodeon and Disney interview those
+companies and I chose call of duty and
+
+00:06:46.050 --> 00:06:48.020
+worked there for a year
+
+00:06:48.020 --> 00:06:51.890
+got that done and over with got out of
+that the corporate corporate trenches of
+
+00:06:51.890 --> 00:06:57.740
+Activision game development is not as
+cool as you think it is everybody and
+
+00:06:57.740 --> 00:07:04.230
+then started just doing here in their
+got connected to a coating boot camp and
+
+00:07:04.230 --> 00:07:15.600
+that's what led me here ok so questions
+from the years I asked him about that
+
+00:07:15.600 --> 00:07:20.210
+actually because he left it was
+successful with with these applications
+
+00:07:20.210 --> 00:07:26.630
+building and building them or himself
+and he didn't realize it like he just
+
+00:07:26.630 --> 00:07:28.230
+said he right now
+
+00:07:28.230 --> 00:07:35.180
+lapses not quite as glamorous life as
+you might think that it's gonna be and
+
+00:07:35.180 --> 00:07:44.340
+was in a way where you wanted to be
+spending his time in distress so back to
+
+00:07:44.340 --> 00:07:51.280
+a point that market made here was
+working in these camps and teaching
+
+00:07:51.280 --> 00:07:56.590
+people in realizing that this is an
+important point that's gonna play into
+
+00:07:56.590 --> 00:08:00.479
+some of the things that market is going
+to be talking to you so tell the people
+
+00:08:00.479 --> 00:08:04.590
+about some of the things that she learns
+you realize that you could that you were
+
+00:08:04.590 --> 00:08:09.910
+good teaching and you could teach people
+like little bit more detail about what
+
+00:08:09.910 --> 00:08:16.360
+that experience has given you that's
+helped you actually be the way you teach
+
+00:08:16.360 --> 00:08:22.940
+directly translates to yourselves in the
+end and here's the key what I learned is
+
+00:08:22.940 --> 00:08:27.370
+you teach for understanding you know
+that what's that phrase nobody cares how
+
+00:08:27.370 --> 00:08:30.130
+much you know until they know how much
+you care when you really care about your
+
+00:08:30.130 --> 00:08:32.580
+students and want to teach them that's
+what matters
+
+00:08:32.580 --> 00:08:36.570
+there's actually lots of you to me
+courses that I previewed or so it's like
+
+00:08:36.570 --> 00:08:37.830
+I'm really smart
+
+00:08:37.830 --> 00:08:42.180
+I'm going to teach what I know you don't
+even caring about the student or what
+
+00:08:42.180 --> 00:08:45.300
+what their end game isn't so I was
+looking at these students and I was
+
+00:08:45.300 --> 00:08:48.910
+actually had a chance to change their
+lives and it was by focusing on the
+
+00:08:48.910 --> 00:08:51.040
+things that matter most to them so
+there's like for instance there's other
+
+00:08:51.040 --> 00:08:54.200
+iOS courses that teach different
+concepts Nick cover things like five
+
+00:08:54.200 --> 00:08:58.110
+minutes at a time but I knew my students
+needed something richer and grandeur
+
+00:08:58.110 --> 00:09:02.980
+because I learned that in real life
+teaching people want to get jobs they
+
+00:09:02.980 --> 00:09:06.060
+want to make money they want to know how
+well your teachers gonna benefit their
+
+00:09:06.060 --> 00:09:09.520
+life so if you just teaching because you
+know something it doesn't necessarily
+
+00:09:09.520 --> 00:09:13.410
+translate to helping students that's the
+most important thing I learned from the
+
+00:09:13.410 --> 00:09:18.120
+coding boot camps which I directly
+injected that knowledge and experience
+
+00:09:18.120 --> 00:09:24.860
+into my courses absolutely so mean I
+hope all of you
+
+00:09:24.860 --> 00:09:29.360
+her dad and marked it kind of summarizes
+a nice way that nobody cares about you
+
+00:09:29.360 --> 00:09:36.870
+know until they know that you care about
+the mindset that Mark has he's producing
+
+00:09:36.870 --> 00:09:40.070
+his horses your next day just answered a
+question that somebody else about
+
+00:09:40.070 --> 00:09:45.790
+whether the classes are profitable
+martin get back to that he'll tell you
+
+00:09:45.790 --> 00:09:50.270
+that it is but something to keep in mind
+is thinking about here
+
+00:09:50.270 --> 00:09:59.350
+students he's showing them that he cares
+so it's not all just about like what's
+
+00:09:59.350 --> 00:10:03.630
+the way that I can squeeze the most
+money so in terms of showing people that
+
+00:10:03.630 --> 00:10:10.370
+you do when we talked earlier you did
+mention things about like thought
+
+00:10:10.370 --> 00:10:14.250
+leadership and community building and
+connecting on an emotional personal
+
+00:10:14.250 --> 00:10:22.600
+level so that all ties in with talk to
+people a little bit about those ideas
+
+00:10:22.600 --> 00:10:29.160
+well first I really do care every time I
+get a personal message on you to me
+
+00:10:29.160 --> 00:10:33.370
+from a student I answer it usually in
+less than six hours as you see within
+
+00:10:33.370 --> 00:10:38.040
+two hours or less I have an online chat
+room and I interact every single day
+
+00:10:38.040 --> 00:10:42.980
+with my students so for instance this
+chatroom have a mobile app for it as
+
+00:10:42.980 --> 00:10:47.610
+well and so if I'm at a grocery store
+mcdonnell's my kids they're playing well
+
+00:10:47.610 --> 00:10:51.350
+I could not have my phone and doing
+nothing or interact with my students and
+
+00:10:51.350 --> 00:10:55.860
+things like that so I make it a big
+priority that they know me and I spent a
+
+00:10:55.860 --> 00:10:59.160
+lot of time a lot of time person with
+them they'll send a link to their
+
+00:10:59.160 --> 00:11:03.170
+projects a look at their code it doesn't
+take long at five minutes or less a look
+
+00:11:03.170 --> 00:11:08.569
+at their code and and just goes a long
+way are sometimes students just need
+
+00:11:08.569 --> 00:11:11.449
+direction you don't have to spend a lot
+of time so they'll say how do I do this
+
+00:11:11.449 --> 00:11:12.759
+and I'll just give me a link
+
+00:11:12.759 --> 00:11:16.420
+a link to something I found on the
+internet and have used before and it's
+
+00:11:16.420 --> 00:11:20.629
+as simple as that so I interact my
+students in a very personal personal
+
+00:11:20.629 --> 00:11:25.730
+matter and it's well if you guys like my
+course I was nine from beginner to pay
+
+00:11:25.730 --> 00:11:32.839
+professional it's almost 4,500 students
+in over 300 reviews and just sometimes
+
+00:11:32.839 --> 00:11:37.449
+the students to feel connected and I'm
+happy to help them so I spent a lot of
+
+00:11:37.449 --> 00:11:41.550
+time I think that I spend most of my
+time doing interacting students
+
