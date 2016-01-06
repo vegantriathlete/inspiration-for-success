@@ -1,0 +1,532 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:04.819
+rolling ok good morning good morning
+good afternoon good evening whatever
+
+00:00:04.819 --> 00:00:09.830
+time zone you're in for those of you who
+are in the United States happy
+
+00:00:09.830 --> 00:00:14.210
+Thanksgiving to all of you and for those
+of you who are not in the United States
+
+00:00:14.210 --> 00:00:21.170
+wish you a great week just the same my
+name's mark isaacson and I've been and
+
+00:00:21.170 --> 00:00:27.410
+used me for not create one year now if
+you want to have a look at the courses
+
+00:00:27.410 --> 00:00:30.609
+that I've got live right now I put the
+league in there for you and you can get
+
+00:00:30.609 --> 00:00:37.200
+discounts on those courses I'm still
+very much figuring things out in my fair
+
+00:00:37.200 --> 00:00:41.219
+share of mistakes getting the pieces
+together here to get everything working
+
+00:00:41.219 --> 00:00:51.160
+we are you get this we are right now in
+Udinese Black Friday sales my computers
+
+00:00:51.160 --> 00:00:56.960
+trying to grab this thing here we are in
+the Black Friday sales right now so if
+
+00:00:56.960 --> 00:01:01.430
+you want to help support me some go
+ahead and get yourself checked with my
+
+00:01:01.430 --> 00:01:06.619
+affiliate I D and go ahead check out
+some stuff on you to me and make some
+
+00:01:06.619 --> 00:01:12.799
+course purchases there and that'll send
+a little bit of money my way and then
+
+00:01:12.799 --> 00:01:17.009
+before we get started with this lab I
+wanna let you know where you can find
+
+00:01:17.009 --> 00:01:21.860
+the replay you know I will make sure to
+post this again at other times
+
+00:01:21.860 --> 00:01:27.590
+throughout the interview here but Frank
+has made some coupons available for us
+
+00:01:27.590 --> 00:01:31.409
+and then if there's any other references
+that come up during the course of the
+
+00:01:31.409 --> 00:01:36.159
+discussion I'll make sure that I get
+them posted there at the replay and
+
+00:01:36.159 --> 00:01:39.770
+overtime out actually get transcripts
+together and session notes together but
+
+00:01:39.770 --> 00:01:45.180
+this is a work in progress and have so
+many hours in the day so there's some
+
+00:01:45.180 --> 00:01:48.630
+good links to get you started out with
+stuff here and that's another me
+
+00:01:48.630 --> 00:01:55.560
+blabbing let me go ahead and introduce
+my guest Frank Cain is a former senior
+
+00:01:55.560 --> 00:02:02.810
+manager from amazon.com and imdb.com who
+left to start his own successful
+
+00:02:02.810 --> 00:02:07.200
+business sundog software in 2012
+
+00:02:07.200 --> 00:02:12.590
+a few months ago contacted frank about
+producing a course related to data
+
+00:02:12.590 --> 00:02:17.550
+science based on his experience at
+Amazon Frank has since launched three
+
+00:02:17.550 --> 00:02:21.810
+courses on you to be related to big data
+and data science that have attracted
+
+00:02:21.810 --> 00:02:26.700
+thousands of paying students and reviews
+and he's devoting most of his time to
+
+00:02:26.700 --> 00:02:32.650
+creating even more courses right now
+frank lives in Orlando with his wife and
+
+00:02:32.650 --> 00:02:39.160
+two daughters welcome to the lab where
+else would you like to tell the viewers
+
+00:02:39.160 --> 00:02:40.459
+about yourself
+
+00:02:40.459 --> 00:02:44.640
+well it's a pretty good summary but you
+know the thing that stresses that long
+
+00:02:44.640 --> 00:02:47.680
+story but if you months ago so it was
+really just about three or four months
+
+00:02:47.680 --> 00:02:50.799
+ago that you can be reached at the
+institute a think about the Union
+
+00:02:50.799 --> 00:02:55.519
+structure and very quickly things have
+taken off so it's been pretty crazy trip
+
+00:02:55.519 --> 00:03:01.880
+yeah it's so I found out about Frank
+based on a post he did in the YouTube to
+
+00:03:01.880 --> 00:03:05.950
+launch where he made reference to the
+fact he said you know I just know that
+
+00:03:05.950 --> 00:03:10.049
+it was only a few months ago that I
+hadn't even heard of you to me now I'm
+
+00:03:10.049 --> 00:03:17.139
+see that this is a full-time or a good
+income but produces significant in me
+
+00:03:17.139 --> 00:03:22.609
+and so when I saw that post I contacted
+him and said hey I'd like to interview
+
+00:03:22.609 --> 00:03:27.540
+you for that lab tests that I do so
+before we get into those details
+
+00:03:27.540 --> 00:03:31.500
+is is par for the course with the
+conversations I have here I always like
+
+00:03:31.500 --> 00:03:35.670
+to get a little bit of background about
+my guess give you a chance to learn a
+
+00:03:35.670 --> 00:03:39.980
+little bit of the above their backstory
+in the things that they were doing
+
+00:03:39.980 --> 00:03:46.549
+before they came to you and the so what
+type of things were you doing at Amazon
+
+00:03:46.549 --> 00:03:52.109
+and IMDB is on I was busy working on
+their recommendation systems they know
+
+00:03:52.109 --> 00:03:54.639
+that when you go to Amazon easy people
+who bought this also bought
+
+00:03:54.639 --> 00:03:59.510
+recommendations for products based on
+stuff you bought it passed that's what I
+
+00:03:59.510 --> 00:04:05.090
+so start off as an engineer on my way up
+to the measure and actually mostly
+
+00:04:05.090 --> 00:04:08.510
+focusing on personalization technology
+is the machine learning and data lines
+
+00:04:08.510 --> 00:04:16.760
+about locations at one point I dot com
+just a subsidiary of amazon.com
+
+00:04:16.760 --> 00:04:21.010
+and I ran their engineering team the
+whole shebang but even there there's a
+
+00:04:21.010 --> 00:04:23.060
+lot of recommendation and
+personalization and data mining
+
+00:04:23.060 --> 00:04:28.010
+technology going on because they have
+giant databases movies and also database
+
+00:04:28.010 --> 00:04:33.550
+user ratings for we did you know that
+sort of the background I'm drawing up
+
+00:04:33.550 --> 00:04:40.650
+his coursework ok so and I know when we
+had our prep session here that you had
+
+00:04:40.650 --> 00:04:45.220
+mentioned to me that the type of stuff
+that you were doing hot really call it
+
+00:04:45.220 --> 00:04:49.780
+big data or data science at that point
+you're just doing what you did there to
+
+00:04:49.780 --> 00:04:55.780
+give people these recommendations which
+he didn't jump right into you to me from
+
+00:04:55.780 --> 00:05:01.240
+there so you had done the work at Amazon
+MVP and then you said you started your
+
+00:05:01.240 --> 00:05:08.080
+own company so why did you resign in
+IMDB to start your own company
+
+00:05:08.080 --> 00:05:12.000
+well as mostly personal I mean yeah he's
+pretty rotten weather for those who
+
+00:05:12.000 --> 00:05:20.960
+haven't been there so we would Orlando
+primarily was really getting change
+
+00:05:20.960 --> 00:05:25.940
+after spending you know ten years in
+Seattle and the time was right now from
+
+00:05:25.940 --> 00:05:30.690
+Amazon so you know we ask Ashley pick up
+and move across the country and be ok
+
+00:05:30.690 --> 00:05:36.180
+for a while so seems like the time was
+right to get out and do something and I
+
+00:05:36.180 --> 00:05:39.050
+was initially had a non-compete
+agreement with Amazon so I couldn't
+
+00:05:39.050 --> 00:05:43.550
+directly related to what I was doing
+there for a few years but to start my
+
+00:05:43.550 --> 00:05:47.770
+own company duly software engineering
+consulting and actually selling my own
+
+00:05:47.770 --> 00:05:52.740
+software that specializes in computer
+graphics for a while
+
+00:05:52.740 --> 00:05:57.270
+ok so that was asked about dead the
+company that you started so you
+
+00:05:57.270 --> 00:06:02.800
+mentioned that it was dealing with
+computer graphics so tell us a little
+
+00:06:02.800 --> 00:06:08.850
+bit more about Lake as I guess what you
+were doing was selling software to be
+
+00:06:08.850 --> 00:06:13.680
+working it you know other people you
+decided to go out on your own and start
+
+00:06:13.680 --> 00:06:16.110
+selling software is that correct
+
+00:06:16.110 --> 00:06:19.300
+doing like through your site you're
+selling software that's right i mean
+
+00:06:19.300 --> 00:06:26.490
+through the goal is to have a passive
+incomes from contracting work you know
+
+00:06:26.490 --> 00:06:30.180
+our picture I could pay the bills
+
+00:06:30.180 --> 00:06:34.330
+always always always suggest you to
+create a package piece of software that
+
+00:06:34.330 --> 00:06:37.910
+you just sell over the internet and I
+could sit back and provide some customer
+
+00:06:37.910 --> 00:06:44.639
+support just like you to me but I large
+nose and click OK
+
+00:06:44.639 --> 00:06:49.960
+ok so how did that work out for you
+could you do the same types of things
+
+00:06:49.960 --> 00:06:53.410
+that you lost this on your own I don't
+imagine you started with any type of
+
+00:06:53.410 --> 00:06:57.000
+following when you launch your business
+so what are the things that you did do
+
+00:06:57.000 --> 00:07:07.500
+you get that software sales business off
+the ground is kind of in each market
+
+00:07:07.500 --> 00:07:11.460
+that I went after its kind of ties into
+the topic of this discussion but what I
+
+00:07:11.460 --> 00:07:14.460
+did is they went after the training and
+simulation market primarily so there's
+
+00:07:14.460 --> 00:07:18.009
+people here in Orlando that focus on
+building virtual reality training
+
+00:07:18.009 --> 00:07:22.750
+simulators for flight in combat in
+military training applications and what
+
+00:07:22.750 --> 00:07:26.800
+I did was provide technology actually
+have a realistic representation of the
+
+00:07:26.800 --> 00:07:32.930
+sky and clouds in water so it's a very
+niche product with something that was
+
+00:07:32.930 --> 00:07:37.270
+until that time though the good thing
+about it is that you can identify your
+
+00:07:37.270 --> 00:07:41.479
+customers pretty easily so you know I
+can go out and get a list of the 100 and
+
+00:07:41.479 --> 00:07:48.349
+200 companies that are doing this stuff
+and just mail them and responded to that
+
+00:07:48.349 --> 00:07:52.260
+is going to spread the word throughout
+the industry that it kinda like this one
+
+00:07:52.260 --> 00:07:59.270
+is pretty much saturated market ok very
+good and what was your background in
+
+00:07:59.270 --> 00:08:04.080
+terms of any type of programming stuff
+that enabled you to be able to create
+
+00:08:04.080 --> 00:08:09.659
+that you were selling before I want to
+have as long as I should have but you
+
+00:08:09.659 --> 00:08:15.199
+game developers so I learn C++ and
+OpenGL graphics technologies back then
+
+00:08:15.199 --> 00:08:20.449
+so I kept out with on the side while I
+was at Amazon so I just made that way
+
+00:08:20.449 --> 00:08:27.250
+full time but afterwards again okay and
+as far as your son died in those
+
+00:08:27.250 --> 00:08:31.830
+products are you still making sales of
+those products is used to have gone on
+
+00:08:31.830 --> 00:08:35.560
+the side in addition to what you're
+doing with you to me I do and you know
+
+00:08:35.560 --> 00:08:40.690
+at this point is probably about 50% you
+mean revenues far as you know my income
+
+00:08:40.690 --> 00:08:43.310
+streams I think that's a very important
+thing to have
+
+00:08:43.310 --> 00:08:48.150
+because you don't have a bar menu I mean
+it is one for a man they can have their
+
+00:08:48.150 --> 00:08:51.220
+own wins they might change their search
+algorithm someday they might change
+
+00:08:51.220 --> 00:08:56.430
+happy you know what they're quite here
+is hosting your horses so it was good to
+
+00:08:56.430 --> 00:09:00.870
+have a backup so I'm still keeping
+around for sure yeah a lot of people
+
+00:09:00.870 --> 00:09:06.330
+bring that up as well as we have these
+discussions about how are you supposed
+
+00:09:06.330 --> 00:09:08.460
+to use what we do
+
+00:09:08.460 --> 00:09:15.279
+discounts things in so so will your
+sounds like you're doing here is you're
+
+00:09:15.279 --> 00:09:22.730
+happy and you know me but your backup
+plan is dead you still got your son dog
+
+00:09:22.730 --> 00:09:26.640
+software going on so you got other
+source of revenue in the event that
+
+00:09:26.640 --> 00:09:35.400
+things take a change with how they
+platform is exactly i mean you don't
+
+00:09:35.400 --> 00:09:39.160
+want to pay the bills on our own but the
+son dawg
+
+00:09:39.160 --> 00:09:51.800
+you can also be a very good very good so
+I I already headed to fill in the
+
+00:09:51.800 --> 00:10:01.010
+listeners about what exactly led me to
+contact you in first place how did they
+
+00:10:01.010 --> 00:10:05.380
+find out about you I mean I imagine that
+they were purchasing your graphics model
+
+00:10:05.380 --> 00:10:08.780
+they weren't
+
+00:10:08.780 --> 00:10:15.800
+remember when I started contracting work
+just one of those contract job was
+
+00:10:15.800 --> 00:10:20.880
+actually calling General Assembly in New
+York City and they do actually in-person
+
+00:10:20.880 --> 00:10:25.280
+training so they will have people that
+actually develop curriculum for their
+
+00:10:25.280 --> 00:10:29.130
+in-person training and back and they
+need someone to help develop a
+
+00:10:29.130 --> 00:10:34.490
+curriculum so turned out some goodies to
+work with Amazon went on to go to work
+
+00:10:34.490 --> 00:10:41.410
+General Assembly result to me they like
+you that works so that together for them
+
+00:10:41.410 --> 00:10:46.470
+and they had a background amazon.com
+order market through my face on the page
+
+00:10:46.470 --> 00:10:48.630
+for that course on their website
+
+00:10:48.630 --> 00:10:52.160
+really that's how you found me grade
+
+00:10:52.160 --> 00:11:03.170
+so again just to get people back story
+here so you that you your face was
+
+00:11:03.170 --> 00:11:12.310
+flying training product and so they came
+to you thinking you have a large
+
+00:11:12.310 --> 00:11:18.709
+following the German bring to you that
+was certainly there hope you know I
+
+00:11:18.709 --> 00:11:22.019
+think everyone in the expertise you know
+they want someone that has some
+
+00:11:22.019 --> 00:11:26.899
+credibility in the industry that they
+could draw on that can bring students
+
