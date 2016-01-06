@@ -1,0 +1,707 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt title="Anonymous Submission" version="0.9.0" root="/home/marc" LC_NUMERIC="en_US.UTF-8">
+ <profile width="1280" display_aspect_den="9" colorspace="709" frame_rate_den="1001" description="HD 720p 29.97 fps" height="720" display_aspect_num="16" frame_rate_num="30000" progressive="1" sample_aspect_num="1" sample_aspect_den="1"/>
+ <producer in="0" out="14999" id="black">
+  <property name="mlt_type">producer</property>
+  <property name="length">15000</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+ </producer>
+ <playlist id="black_track">
+  <entry in="0" out="6524" producer="black"/>
+ </playlist>
+ <playlist id="playlist1"/>
+ <producer in="0" out="271" id="7_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">272</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-01.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="861" id="8_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">862</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-02.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="387" id="9_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">388</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-03.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="233" id="10_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">234</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-04.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="348" id="11_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">349</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-05.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="209" id="12_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">210</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-06.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="707" id="13_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">708</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-07.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="415" id="14_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">416</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-08.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="467" id="15_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">468</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-09.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="528" id="16_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">529</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-10.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="207" id="17_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">208</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-11.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="517" id="18_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">518</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-12.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="415" id="19_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">416</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-13.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <producer in="0" out="509" id="20_3">
+  <property name="mlt_type">producer</property>
+  <property name="length">510</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-14.flac</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mlt_service">avformat</property>
+ </producer>
+ <playlist id="playlist2">
+  <blank length="127"/>
+  <entry in="0" out="271" producer="7_3"/>
+  <blank length="25"/>
+  <entry in="1" out="861" producer="8_3"/>
+  <blank length="26"/>
+  <entry in="0" out="387" producer="9_3"/>
+  <blank length="17"/>
+  <entry in="0" out="233" producer="10_3"/>
+  <blank length="21"/>
+  <entry in="0" out="348" producer="11_3"/>
+  <blank length="21"/>
+  <entry in="0" out="209" producer="12_3"/>
+  <blank length="31"/>
+  <entry in="0" out="707" producer="13_3"/>
+  <blank length="15"/>
+  <entry in="0" out="415" producer="14_3"/>
+  <blank length="6"/>
+  <entry in="0" out="467" producer="15_3"/>
+  <blank length="12"/>
+  <entry in="0" out="528" producer="16_3"/>
+  <blank length="20"/>
+  <entry in="0" out="207" producer="17_3"/>
+  <blank length="6"/>
+  <entry in="0" out="517" producer="18_3"/>
+  <blank length="11"/>
+  <entry in="0" out="415" producer="19_3"/>
+  <entry in="0" out="509" producer="20_3"/>
+ </playlist>
+ <producer in="0" out="6344" id="5">
+  <property name="mlt_type">producer</property>
+  <property name="length">6345</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Assets/white background.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+ </producer>
+ <playlist id="playlist3">
+  <blank length="89"/>
+  <entry in="0" out="6343" producer="5"/>
+ </playlist>
+ <producer in="0" out="149" id="6">
+  <property name="mlt_type">producer</property>
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/EditorProject/title slide.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+ </producer>
+ <producer in="0" out="24825" id="3_1">
+  <property name="mlt_type">producer</property>
+  <property name="length">24826</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Lectures/Welcome/Video/MVI_0170.MP4</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1280</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.frame_rate">inf</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">3880491</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2015-11-26 09:32:08</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">127447</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2015-11-26 09:32:08</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">1</property>
+  <property name="meta.attr.compatible_brands.markup">mp42avc1CAEP</property>
+  <property name="meta.attr.creation_time.markup">2015-11-26 09:32:08</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mlt_service">avformat</property>
+  <property name="meta.media.frame_rate_num">30000</property>
+  <property name="meta.media.frame_rate_den">1001</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer in="0" out="149" id="4">
+  <property name="mlt_type">producer</property>
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">Projects/Inspiration for Success/Assets/title slide.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+ </producer>
+ <playlist id="playlist4">
+  <entry in="0" out="89" producer="6"/>
+  <entry in="1275" out="1588" producer="3_1">
+   <filter id="chroma">
+    <property name="track">0</property>
+    <property name="key">0x299a30ff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="1"/>
+  <entry in="10989" out="11888" producer="3_1">
+   <filter id="filter0">
+    <property name="track">0</property>
+    <property name="key">0x249a23ff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="12279" out="12684" producer="3_1">
+   <filter id="filter1">
+    <property name="track">0</property>
+    <property name="key">0x20972cff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="23268" out="23509" producer="3_1">
+   <filter id="filter2">
+    <property name="track">0</property>
+    <property name="key">0x1c9736ff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="22096" out="22477" producer="3_1">
+   <filter id="filter3">
+    <property name="track">0</property>
+    <property name="key">0x198121ff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="20559" out="20805" producer="3_1">
+   <filter id="filter4">
+    <property name="track">0</property>
+    <property name="key">0x20952dff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="17140" out="17860" producer="3_1">
+   <filter id="filter5">
+    <property name="track">0</property>
+    <property name="key">0x1b9338ff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable">0</property>
+   </filter>
+  </entry>
+  <entry in="15685" out="16104" producer="3_1">
+   <filter id="filter6">
+    <property name="track">0</property>
+    <property name="key">0x127c26ff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="16334" out="16813" producer="3_1">
+   <filter id="filter7">
+    <property name="track">0</property>
+    <property name="key">0x168732ff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="19151" out="19699" producer="3_1">
+   <filter id="filter8">
+    <property name="track">0</property>
+    <property name="key">0x1f9a3aff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="6722" out="6935" producer="3_1">
+   <filter id="filter9">
+    <property name="track">0</property>
+    <property name="key">0x208c25ff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="7022" out="7549" producer="3_1">
+   <filter id="filter10">
+    <property name="track">0</property>
+    <property name="key">0x207f24ff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry in="7932" out="8356" producer="3_1">
+   <filter id="filter11">
+    <property name="track">0</property>
+    <property name="key">0x239329ff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable">0</property>
+   </filter>
+  </entry>
+  <entry in="14413" out="14925" producer="3_1">
+   <filter id="filter12">
+    <property name="track">0</property>
+    <property name="key">0x21962cff</property>
+    <property name="variance">0.1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">chroma</property>
+    <property name="kdenlive_id">chroma</property>
+    <property name="tag">chroma</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="disable">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="3"/>
+  <entry in="0" out="89" producer="4"/>
+ </playlist>
+ <playlist id="playlist5"/>
+ <tractor title="Anonymous Submission" global_feed="1" in="0" out="6524" id="maintractor">
+  <property name="meta.volume">1</property>
+  <track producer="black_track"/>
+  <track hide="video" producer="playlist1"/>
+  <track hide="video" producer="playlist2"/>
+  <track producer="playlist3"/>
+  <track hide="audio" producer="playlist4"/>
+  <track producer="playlist5"/>
+  <transition id="transition0">
+   <property name="a_track">1</property>
+   <property name="b_track">2</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">1</property>
+   <property name="b_track">3</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">1</property>
+   <property name="b_track">4</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">1</property>
+   <property name="b_track">5</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition in="89" out="6432" id="transition4">
+   <property name="a_track">3</property>
+   <property name="b_track">4</property>
+   <property name="start">0/0:100%x100%</property>
+   <property name="factory">loader</property>
+   <property name="aligned">1</property>
+   <property name="progressive">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">composite</property>
+   <property name="automatic">1</property>
+   <property name="kdenlive_id">composite</property>
+   <property name="force_track">0</property>
+   <property name="deinterlace">0</property>
+   <property name="distort">0</property>
+   <property name="fill">1</property>
+   <property name="geometry">0%/0%:100%x100%:100</property>
+   <property name="luma_invert">0</property>
+   <property name="operator">over</property>
+   <property name="softness">0</property>
+   <property name="luma"/>
+  </transition>
+ </tractor>
+ <kdenlivedoc profile="atsc_720p_2997" kdenliveversion="0.9.6" version="0.88" projectfolder="/home/marc/Projects">
+  <customeffects/>
+  <documentproperties documentid="1448554414418" renderdestination="" renderrescalewidth="320" proxyextension="ts" generateproxy="0" proxyimageminsize="2000" rendertctype="0" verticalzoom="1" renderprofile="MPEG-4/AAC" renderrescaleheight="180" zonein="0" renderrescale="0" renderscanning="0" renderurl="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/RenderedProject/welcome.mp4" rendertwopass="1" renderplay="0" position="6524" proxyminsize="1000" renderstartguide="-1" zoom="6" renderratio="1" rendercategory="MPEG-4" zoneout="1" renderzone="0" renderendguide="-1" renderexportaudio="0" proxyparams="-f mpegts -acodec libmp3lame -ac 2 -ab 128k -ar 48000 -vcodec mpeg2video -g 5 -deinterlace -s 480x270 -vb 400k" enableproxy="0" generateimageproxy="0" renderguide="0" rendertcoverlay="0"/>
+  <documentmetadata/>
+  <documentnotes>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Ubuntu'; font-size:11pt; font-weight:400; font-style:normal;">
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>&lt;/body>&lt;/html></documentnotes>
+  <profileinfo width="1280" display_aspect_den="9" frame_rate_den="1001" description="HD 720p 29.97 fps" height="720" frame_rate_num="30000" display_aspect_num="16" progressive="1" sample_aspect_num="1" sample_aspect_den="1"/>
+  <tracksinfo>
+   <trackinfo blind="1" mute="0" locked="0" trackname="Audio 2" type="audio"/>
+   <trackinfo blind="1" mute="0" locked="0" trackname="Audio 1" type="audio"/>
+   <trackinfo blind="0" mute="0" locked="0" trackname="Video 3"/>
+   <trackinfo blind="0" mute="1" locked="0" trackname="Video 2"/>
+   <trackinfo blind="0" mute="0" locked="0" trackname="Video 1"/>
+  </tracksinfo>
+  <kdenlive_producer audio_max="60" id="3" pix_fmt="yuv420p" default_video="0" fps="29.97" analysisdata="" name="MVI_0170.MP4" videocodecid="h264" colorspace="709" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Video/MVI_0170.MP4" default_audio="1" audiocodec="AAC (Advanced Audio Coding)" duration="24826" file_hash="0b4724151278c6a2f86d311769abf713" aspect_ratio="1" channels="2" frequency="48000" video_max="0" progressive="1" type="3" frame_size="1280x720" file_size="415896061">
+   <metaproperty tool="" name="meta.attr.0.stream.creation_time">2015-11-26 09:32:08</metaproperty>
+   <metaproperty tool="" name="meta.attr.0.stream.language">eng</metaproperty>
+   <metaproperty tool="" name="meta.attr.1.stream.creation_time">2015-11-26 09:32:08</metaproperty>
+   <metaproperty tool="" name="meta.attr.1.stream.language">eng</metaproperty>
+   <metaproperty tool="" name="meta.attr.compatible_brands">mp42avc1CAEP</metaproperty>
+   <metaproperty tool="" name="meta.attr.creation_time">2015-11-26 09:32:08</metaproperty>
+   <metaproperty tool="" name="meta.attr.major_brand">mp42</metaproperty>
+   <metaproperty tool="" name="meta.attr.minor_version">1</metaproperty>
+  </kdenlive_producer>
+  <kdenlive_producer duration="150" frame_size="1920x1080" thumbnail="100" in="0" analysisdata="" file_size="24602" aspect_ratio="1" out="149" file_hash="1e4971f37b14296d402f046e7bec7de4" type="5" id="4" name="title slide.png" resource="/home/marc/Projects/Inspiration for Success/Assets/title slide.png"/>
+  <kdenlive_producer duration="150" frame_size="1920x1080" thumbnail="100" in="0" analysisdata="" file_size="10670" aspect_ratio="1" out="149" file_hash="6716397e2218ba2c7ef54638ebcd9250" type="5" id="5" name="white background.png" resource="/home/marc/Projects/Inspiration for Success/Assets/white background.png"/>
+  <kdenlive_producer duration="150" frame_size="1920x1080" in="0" analysisdata="" file_size="38512" aspect_ratio="1" out="149" file_hash="41d32611e16660039cf1485dc9c712e1" type="5" id="6" name="title slide.png" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/EditorProject/title slide.png"/>
+  <kdenlive_producer audio_max="50" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="272" frame_size="1280x720" frequency="44100" analysisdata="" file_size="342112" aspect_ratio="0" file_hash="7e736abd2306d7abc38c8af3a8cabc75" type="1" id="7" name="welcome-clip-01.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-01.flac"/>
+  <kdenlive_producer audio_max="51" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="862" frame_size="1280x720" frequency="44100" analysisdata="" file_size="1106913" aspect_ratio="0" file_hash="0a384018c16df996dbf368b8c1cc8210" type="1" id="8" name="welcome-clip-02.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-02.flac"/>
+  <kdenlive_producer audio_max="49" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="388" frame_size="1280x720" frequency="44100" analysisdata="" file_size="513109" aspect_ratio="0" file_hash="2866c1f634e2fe74ae8a254429582b7c" type="1" id="9" name="welcome-clip-03.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-03.flac"/>
+  <kdenlive_producer audio_max="47" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="234" frame_size="1280x720" frequency="44100" analysisdata="" file_size="289167" aspect_ratio="0" file_hash="e5b265733abbb8a38193393ebbff64c3" type="1" id="10" name="welcome-clip-04.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-04.flac"/>
+  <kdenlive_producer audio_max="50" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="349" frame_size="1280x720" frequency="44100" analysisdata="" file_size="467851" aspect_ratio="0" file_hash="27ef6f128a75d5a272ec23a018cc09e9" type="1" id="11" name="welcome-clip-05.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-05.flac"/>
+  <kdenlive_producer audio_max="48" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="210" frame_size="1280x720" frequency="44100" analysisdata="" file_size="271394" aspect_ratio="0" file_hash="7cffa3cf644d81afc4c945bbcb17664e" type="1" id="12" name="welcome-clip-06.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-06.flac"/>
+  <kdenlive_producer audio_max="49" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="708" frame_size="1280x720" frequency="44100" analysisdata="" file_size="947291" aspect_ratio="0" file_hash="c3042dce2f95b2abfcb3d1129e312011" type="1" id="13" name="welcome-clip-07.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-07.flac"/>
+  <kdenlive_producer audio_max="52" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="416" frame_size="1280x720" frequency="44100" analysisdata="" file_size="552767" aspect_ratio="0" file_hash="a47d0320fbf91e0fdab0b85e6a8ea609" type="1" id="14" name="welcome-clip-08.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-08.flac"/>
+  <kdenlive_producer audio_max="49" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="468" frame_size="1280x720" frequency="44100" analysisdata="" file_size="637126" aspect_ratio="0" file_hash="4e1dadc644d15b4667173781fe09b180" type="1" id="15" name="welcome-clip-09.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-09.flac"/>
+  <kdenlive_producer audio_max="55" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="529" frame_size="1280x720" frequency="44100" analysisdata="" file_size="684543" aspect_ratio="0" file_hash="9a7a8c14374f8ae5c99d676b4cde26cd" type="1" id="16" name="welcome-clip-10.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-10.flac"/>
+  <kdenlive_producer audio_max="49" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="208" frame_size="1280x720" frequency="44100" analysisdata="" file_size="276305" aspect_ratio="0" file_hash="3b5ae00a89cdd3df38aefaf6286e8d40" type="1" id="17" name="welcome-clip-11.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-11.flac"/>
+  <kdenlive_producer audio_max="55" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="518" frame_size="1280x720" frequency="44100" analysisdata="" file_size="698731" aspect_ratio="0" file_hash="b4a785000b87f36cd3974c43cbd2c993" type="1" id="18" name="welcome-clip-12.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-12.flac"/>
+  <kdenlive_producer audio_max="47" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="416" frame_size="1280x720" frequency="44100" analysisdata="" file_size="540974" aspect_ratio="0" file_hash="dbbd6c19d16dd1d719185012f8e27582" type="1" id="19" name="welcome-clip-13.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-13.flac"/>
+  <kdenlive_producer audio_max="51" audiocodec="FLAC (Free Lossless Audio Codec)" channels="1" duration="510" frame_size="1280x720" frequency="44100" analysisdata="" file_size="677054" aspect_ratio="0" file_hash="92d7befed442ae1c8457c9663aa025e7" type="1" id="20" name="welcome-clip-14.flac" resource="/home/marc/Projects/Inspiration for Success/Lectures/Welcome/Audio/welcome-clip-14.flac"/>
+  <markers/>
+  <groups/>
+ </kdenlivedoc>
+</mlt>
